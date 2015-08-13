@@ -1,0 +1,1 @@
+Controlador todo lo añadido acá tendrá la nomenclatura funcionalidadAlgoController.js, debe ser en javascript o jquery

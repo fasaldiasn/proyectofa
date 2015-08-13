@@ -1,0 +1,1 @@
+Modelo, para BBDD, todo lo añadido acá tendrá la nomenclatura funcionalidadAlgoModel.php, debe ser en PHP

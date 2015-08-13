@@ -1,0 +1,1 @@
+Vista todo lo añadido acá tendrá la nomenclatura funcionalidadAlgoView.js, debe ser en PHP
